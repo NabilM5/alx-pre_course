@@ -1,2 +1,2 @@
 My first commit.
-My README is update.
+My README is updated
